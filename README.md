@@ -31,10 +31,10 @@ Its format is the following:
 
 CITY | 2001 | 2002 | ... | 2023 |
 --- | --- | --- | --- | ---
-London | 139 rainy days | 130 rainy days | ... | 135 rainy days |
-Birmigham | ... | ... | ... | ... |
+City 0 | x rainy days | y rainy days | ... | z rainy days |
+City 1 | x rainy days | y rainy days | ... | z rainy days |
 ... | ... | ... | ... | ...
-
+City 270 | x rainy days | y rainy days | ... | z rainy days |
 
 
 
