@@ -1,4 +1,4 @@
-# Rain-UK
+## Interactive Jupyter Notebooks
 
 It is possible to view the interactive Jupyter notebooks and run them on Google Colab using the following links:
 
