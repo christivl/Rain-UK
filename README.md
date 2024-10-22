@@ -36,6 +36,11 @@ City 1 | x rainy days | y rainy days | ... | z rainy days |
 ... | ... | ... | ... | ...
 City 270 | x rainy days | y rainy days | ... | z rainy days |
 
+2. rain_40_cities.txt
+
+A text file of the same format as "rain_AVG_city.txt", produced by the second Jupyter Notebook (Automation), containing the rain information for the first 40 cities (out of the 270).
+
+
 
 
 
