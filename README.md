@@ -61,8 +61,8 @@ An animated plot (gif), of the UK map, indicating the cities, for which we calcu
 These image files are incorporated in the Markdown cells of some of the Jupyter notebooks, just for illustration purposes:
 
 1. geodf.png
-2. geonames_screen
-3. API_limit
+2. geonames_screen.png
+3. API_limit.png
 
 
 
