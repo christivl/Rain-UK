@@ -10,5 +10,6 @@ It is possible to view the interactive Jupyter notebooks and run them on Google 
 
 
 3. Colourmaps and animated plots:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/]https://colab.research.google.com/github/christivl/Rain-UK/blob/main/Colourmaps_and_animated_plots.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)][https://colab.research.google.com/github/](https://colab.research.google.com/github/christivl/Rain-UK/blob/main/Colourmaps_and_animated_plots.ipynb)
+
 
