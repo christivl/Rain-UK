@@ -92,4 +92,5 @@ An animated plot (gif), of the UK map, indicating the cities, for which we calcu
 ## Sources
 
 The historical weather data were retrieved from: https://open-meteo.com/en/docs/historical-weather-api#timezone=Europe%2FLondon
+
 The geographical coordinates of the UK cities were scraped from: https://www.geonames.org/search.html?q=&country=GB
