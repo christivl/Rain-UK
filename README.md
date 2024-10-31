@@ -8,9 +8,7 @@ This notebook retrieves the historical rainfall data for London from 1980 from a
 
 2. Automation:
 
-This notebook automates the calculation of rainy days per year across hundreds of UK cities. However, it also scrapes It begins by scraping the geographical coordinates (Latitude, Longitude) of these cities, from the GeoNames public database, as these are required inputs for the API.
-
-
+This notebook automates the calculation of rainy days per year across hundreds of UK cities. However, it also scrapes the geographical coordinates (Latitude, Longitude) of these cities, from the GeoNames public database, as these are required inputs for the API.
 
 3. Colourmaps & Animated Plots
 
