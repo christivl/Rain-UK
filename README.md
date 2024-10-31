@@ -12,7 +12,9 @@ This notebook automates the calculation of rainy days per year across hundreds o
 
 3. Colourmaps & Animated Plots
 
-
+The yearly rainfall data produced by the second script (Automation) are finally plotted in two different ways:
+- As semi-transparent perspective plots
+- As a colourmap, with the different colours indicating the relative count of rainy days (on a UK map). An animated plot (gif) shows how the data vary each year.
 
 
 ## Why the weather
