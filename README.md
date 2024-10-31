@@ -1,6 +1,8 @@
 ## Why the weather
-The most popular small talk topic in the UK is the weather! Almost every day I had this conversation: Is it going to rain today? According to the weather app, next week it will be cloudy! I hope it will not rain in the weekend, because I am planning to go to the park.
-This common interest in the weather was one of the motivations for this project. Another motivation was that there are plenty of weather databases and some are free access.
+The most popular small talk topic in the UK is the weather! "Is it going to rain today?" or "Will we have a sunny weekend?" and similar questions are part of a conversation, almost every day!
+
+The common interest in the weather motivated me to start this personal project, along with the fact that there are plenty 
+of weather databases and many of them are free-access.
 
 
 
