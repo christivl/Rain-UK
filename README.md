@@ -1,13 +1,16 @@
 ## This Project
-This is a personal project, displaying my current skills in data science. It consists of three mini-projects, each in the form of a Jupyter Notebook, focussing on working with databases and analysing and visualising data.
+This is a personal project, displaying my current skills in data science. The main focus is on working with databases, statistical analysis and data visualisation.
+The project is made of three mini-projects, each in the form of a Jupyter Notebook:
 
 1. Curve Fitting:
 
-This notebook retrieves the historical rainfall data for London from 1980 from a publicly available API (OpenMeteo). It then calculates the number of rainy days per year and plots the yearly rain count. Finally, a third-order Fourier series is fitted to the data.
+This notebook retrieves the historical rainfall data for London from 1980 from a publicly available API (OpenMeteo). It then calculates the number of rainy days per year and plots the yearly rain count. Finally, the trends are modelled using a third-order Fourier series.
 
 2. Automation:
 
-It finds the geographical coordinates (Latitude, Longitude) of all the UK cities from a public database (GeoNames) and retrieves the 
+This notebook automates the calculation of rainy days per year across hundreds of UK cities. However, it also scrapes It begins by scraping the geographical coordinates (Latitude, Longitude) of these cities, from the GeoNames public database, as these are required inputs for the API.
+
+
 
 3. Colourmaps & Animated Plots
 
