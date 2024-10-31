@@ -1,5 +1,5 @@
 ## This Project
-This is a personal project, displaying my current skills in the field of data analysis. 
+This is a personal project, displaying my current skills in the field of data science. 
 It consists of three mini-projects, each in the form of a Jupyter Notebook.
 
 
