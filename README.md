@@ -88,6 +88,11 @@ An animated plot (gif), of the UK map, indicating the cities, for which we calcu
 
 ## Future Work
 
+This project explores only a few ways to interpret weather data. There are many further possibilities, such as:
+- Comparison of the historic rainfall data with the weather predictions of the time
+- Comparative analysis of city-wise minimum, maximum and median temperature
+- The effect of climate change on the total precipitation per year and the median temperature
+
 
 ## Sources
 
