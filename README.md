@@ -79,7 +79,7 @@ City 1 | x Latitude | y Longitude |
 ... | ... | ...
 City 300 | x Latitude | y Longitude |
 
-### Plots generated in the 3rd Notebook (Screenshots)
+### Plots produced by the 3rd Notebook (Screenshots)
 
 1. "Colourmap_2001.png"
 
@@ -87,7 +87,7 @@ A colourmap showing the rainy days in the 270 UK cities in the form of a colourm
 
 2. "slider_plot_snapshot.png"
 
-A screenshot of the interactive colourmap, showing the colourmap for each year from 2001 up to 2023. 
+A screenshot of the animated plot with a slider, showing the colourmap for each year from 2001 up to 2023. 
 
 
 **Note**: Both of these plots can be seen interactively in the Google Colab notebooks (provided in the links in the "Usage" section).
