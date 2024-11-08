@@ -95,7 +95,7 @@ A screenshot of the animated plot with a slider, showing the colourmap for each 
 
 ### Screenshots
 
-The following files are screenshots included in the Google Colab notebooks, which were added just for illustration when explaining some key concepts:
+The following files are screenshots included in the Google Colab notebooks for illustration when explaining key concepts:
 1. API_limit.png
 2. geodf.png
 3. geonames_screen.png
