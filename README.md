@@ -92,10 +92,21 @@ A screenshot of the animated plot with a slider, showing the colourmap for each 
 
 **Note**: Both of these plots can be seen interactively in the Google Colab notebooks (provided in the links in the "Usage" section).
 
+
+### Screenshots
+
+The following files are screenshots included in the Google Colab notebooks, which were added just for illustration when explaining some key concepts:
+1. API_limit.png
+2. geodf.png
+3. geonames_screen.png
+
+
+
+
 ## Future Work
 
 This project explores only a few ways to interpret weather data. There are many further possibilities, such as:
-- Comparison of the historic rainfall data with the weather predictions of the time
+- Comparison of the historical rainfall data with the weather predictions of the time
 - Comparative analysis of city-wise minimum, maximum and median temperature
 - The effect of climate change on the total precipitation per year and the median temperature
 
